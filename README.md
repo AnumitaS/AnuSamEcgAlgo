@@ -1,7 +1,7 @@
 # AnuSamEcgAlgo
 # Ultra-Fast Vectorized QRS Detector
 
-An ultra-low complexity, loopless time-domain QRS detector built entirely on native NumPy vectorization. 
+An ultra-low complexity, time-domain QRS detector built entirely on native NumPy vectorization. 
 
 ## Key Breakthroughs
 * **Generational Speed:** 3x to 700x faster than Wavelets, Hilbert Transform, and NeuroKit2 baselines.
