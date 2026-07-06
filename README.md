@@ -1,2 +1,19 @@
 # AnuSamEcgAlgo
-A purely vectorized, loopless QRS detector built on NumPy. 3x to 700x faster than traditional pipelines with >99.8% F1-score under heavy noise.
+# Ultra-Fast Vectorized QRS Detector
+
+An ultra-low complexity, loopless time-domain QRS detector built entirely on native NumPy vectorization. 
+
+## Key Breakthroughs
+* **Generational Speed:** 3x to 700x faster than Wavelets, Hilbert Transform, and NeuroKit2 baselines.
+* **Linear Scaling:** Processing time scales at strict $O(N)$ linear complexity—the longer the signal, the higher the competitive advantage.
+* **Noise Robustness:** Maintains an F1-score of `>0.998` on the MIT-BIH database even under a harsh 6dB noise floor.
+
+## Performance Benchmark (MIT-BIH Record 100)
+| Method | Runtime (s) | F1-Score (Clean) | F1-Score (6dB Noise) |
+| :--- | :--- | :--- | :--- |
+| **Proposed (Ours)** | **0.013s** | **1.000** | **1.000** |
+| Wavelet | 0.044s | 0.999 | 0.948 |
+
+## Citation / Preprint
+If you use this work in your research, please cite our preprint:
+[10.13140/RG.2.2.27836.60806/1](https://doi.org/10.13140/RG.2.2.27836.60806/1)
