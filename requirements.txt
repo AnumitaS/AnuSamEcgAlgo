@@ -1,1 +1,13 @@
+For the algorithm:
+Numpy #only numpy
 
+For running the benchmarking protocol:
+time
+pandas
+Neurokit2
+wfdb
+os
+scipy
+openpyxl
+scikit_posthocs
+Database ( which ver you want to compare )
