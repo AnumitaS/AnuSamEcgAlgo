@@ -11,8 +11,9 @@ An ultra-low complexity, time-domain QRS detector built entirely on native NumPy
 ## Performance Benchmark (MIT-BIH Record 100)
 | Method | Runtime (s) | F1-Score (Clean) | F1-Score (6dB Noise) |
 | :--- | :--- | :--- | :--- |
-| **Proposed (Ours)** | **0.013s** | **1.000** | **1.000** |
+| **Proposed** | **0.013s** | **1.000** | **1.000** |
 | Wavelet | 0.044s | 0.999 | 0.948 |
+
 
 ## Citation / Preprint
 If you use this work in your research, please cite our preprint:
