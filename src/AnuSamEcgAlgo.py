@@ -15,10 +15,29 @@
 
 import numpy as np
 
-def filtering():
+
+def adaptive_cluster_extreme_fast_new(arr, indices, fs):
+    abs_arr = np.abs(arr)
+    diffs = np.diff(indices)
+    x = int(0.2 * fs)
+    breaks = np.flatnonzero(diffs > x) + 1
+    raw_r = []
+    start = 0
+    for b in np.append(breaks, len(indices)):
+        c = indices[start:b]
+        if c.size:
+            r_point = c[np.argmax(abs_arr[c])]
+            raw_r.append(r_point)
+        start = b
+    raw_r = np.array(raw_r)
+    return np.array(raw_r, dtype=int)
 
 
-def AnuSamEcgAlgo():
-
-  
-
+def AnuSamEcgAlgo(ecg, fs):
+    """ Proposed Adaptive R-Peak Detector. """
+    abs_diffs = np.abs(np.diff(ecg))
+    abs_diffs = np.append(abs_diffs, 0)
+    mean_val, std_val = np.mean(abs_diffs), np.std(abs_diffs)
+    thresh = mean_val + 2.3 * std_val
+    indices = np.flatnonzero(abs_diffs > thresh) + 1
+    return adaptive_cluster_extreme_fast_new(ecg, indices, fs)
