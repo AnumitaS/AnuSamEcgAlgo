@@ -12,7 +12,7 @@ An ultra-low complexity, time-domain QRS detector built entirely on native NumPy
 | Method | Runtime (s) | F1-Score (Clean) | Runtime (s) | F1-Score (6dB Noise) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Proposed** | **0.01s** | **1.000** | **0.02s** | **1.000** |
-| Wavelet | 0.07s | 1.000 | 0.05s | 1.000 |
+| Wavelet | 0.07s | **1.000** | 0.05s | **1.000** |
 | Christov | 10.78s | 0.999 | 15.99s | 0.989 |
 | HTompkins | 0.63s | 0.995 | 1.29s | 0.998 |
 
