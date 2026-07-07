@@ -1,5 +1,5 @@
 # AnuSamEcgAlgo
-# Ultra-Fast Vectorized QRS Detector
+# Ultra-Fast Vectorized R-peak Detector
 
 An ultra-low complexity, time-domain QRS detector built entirely on native NumPy vectorization. This algorithm only use Numpy library.
 
