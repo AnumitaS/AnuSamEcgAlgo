@@ -22,7 +22,7 @@ If you use this work in your research, please cite our preprint:
 [10.13140/RG.2.2.27836.60806/1](https://doi.org/10.13140/RG.2.2.27836.60806/1)
 
 ## Run the program at google colab
-Link: [http://colab.google](https://colab.research.google.com/drive/18HwwqWOm7TumqqrmXrf69CxQkii99mKR?usp=sharing)
+[http://colab.google](https://colab.research.google.com/drive/18HwwqWOm7TumqqrmXrf69CxQkii99mKR?usp=sharing)
 
 ## License
 
