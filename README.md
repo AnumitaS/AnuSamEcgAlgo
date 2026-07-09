@@ -20,3 +20,14 @@ An ultra-low complexity, time-domain QRS detector built entirely on native NumPy
 ## Citation / Preprint
 If you use this work in your research, please cite our preprint:
 [10.13140/RG.2.2.27836.60806/1](https://doi.org/10.13140/RG.2.2.27836.60806/1)
+
+## License
+
+This project is dual-licensed under the terms of both the MIT License and the Apache License (Version 2.0). Users and contributors may choose which license they wish to follow.
+
+* See [LICENSE-MIT](LICENSE-MIT) for full text.
+* See [LICENSE-APACHE](LICENSE-APACHE) for full text.
+
+### SPDX Identifier
+```text
+SPDX-License-Identifier: MIT OR Apache-2.0
