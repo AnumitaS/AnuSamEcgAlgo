@@ -21,6 +21,9 @@ An ultra-low complexity, time-domain QRS detector built entirely on native NumPy
 If you use this work in your research, please cite our preprint:
 [10.13140/RG.2.2.27836.60806/1](https://doi.org/10.13140/RG.2.2.27836.60806/1)
 
+## Run the program at google colab
+Link: [http://colab.google](https://colab.research.google.com/drive/18HwwqWOm7TumqqrmXrf69CxQkii99mKR?usp=sharing)
+
 ## License
 
 This project is dual-licensed under the terms of both the AGPL-3.0 License and the Apache License (Version 2.0). Users and contributors may choose which license they wish to follow.
