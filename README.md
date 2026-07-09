@@ -25,7 +25,7 @@ If you use this work in your research, please cite our preprint:
 
 This project is dual-licensed under the terms of both the MIT License and the Apache License (Version 2.0). Users and contributors may choose which license they wish to follow.
 
-* See [LICENSE-MIT](LICENSE-MIT) for full text.
+* See [LICENSE-AGPL](LICENSE-AGPL) for full text.
 * See [LICENSE-APACHE](LICENSE-APACHE) for full text.
 
 ### SPDX Identifier
