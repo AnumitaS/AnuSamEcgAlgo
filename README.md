@@ -23,7 +23,7 @@ If you use this work in your research, please cite our preprint:
 
 ## License
 
-This project is dual-licensed under the terms of both the MIT License and the Apache License (Version 2.0). Users and contributors may choose which license they wish to follow.
+This project is dual-licensed under the terms of both the AGPL-3.0 License and the Apache License (Version 2.0). Users and contributors may choose which license they wish to follow.
 
 * See [LICENSE-AGPL](LICENSE-AGPL) for full text.
 * See [LICENSE-APACHE](LICENSE-APACHE) for full text.
