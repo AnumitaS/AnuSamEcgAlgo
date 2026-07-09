@@ -30,4 +30,4 @@ This project is dual-licensed under the terms of both the MIT License and the Ap
 
 ### SPDX Identifier
 ```text
-SPDX-License-Identifier: MIT OR Apache-2.0
+SPDX-License-Identifier: AGPL-3.0 OR Apache-2.0
