@@ -25,11 +25,11 @@ CPU:RYZEN 5 5600G, Graphics: Intel(R) Arc(TM) A380 Graphics (6 GB), RAM: 24.0 GB
 If you use this work in your research, please cite our preprint:
 [10.13140/RG.2.2.27836.60806/1](https://doi.org/10.13140/RG.2.2.27836.60806/1)
 
-## 🪐 Run on Google Colab
+## 🌟 Run on Google Colab
 You can test and execute this program in the cloud without installing anything locally.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18HwwqWOm7TumqqrmXrf69CxQkii99mKR?usp=sharing)
 
-### S U+1F4D Instructions for Viewers:
+### 📌 Instructions for Viewers:
 1. Click the **Open In Colab** badge above.
 2. You must run each cell one by one. Some cell will ask for your input. You must give a valid input in those fields.
 3. If prompted with a warning about a non-Google notebook, click **Run anyway**.
