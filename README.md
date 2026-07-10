@@ -8,7 +8,7 @@ An ultra-low complexity, time-domain QRS detector built entirely on native NumPy
 * **Linear Scaling:** Processing time scales at strict $O(N)$ linear complexity—the longer the signal, the higher the competitive advantage.
 * **Noise Robustness:** Maintains an F1-score of `>0.998` on the MIT-BIH database even under a harsh 6dB noise floor.
 
-## Performance Benchmark (MIT-BIH Record 100)
+## ▶️ Performance Benchmark (MIT-BIH Record 100)
 **Computational Specification for this result :** 
 CPU:RYZEN 5 5600G, Graphics: Intel(R) Arc(TM) A380 Graphics (6 GB), RAM: 24.0 GB (23.9 GB usable), OS: Windows 11 Pro 25H2
 | Method | Runtime (s) | F1-Score (Clean) | Runtime (s) | F1-Score (6dB Noise) |
