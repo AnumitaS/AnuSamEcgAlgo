@@ -31,7 +31,7 @@ You can test and execute this program in the cloud without installing anything l
 
 ### 📝 Instructions for Viewers:
 1. Click the **Open In Colab** badge above.
-2. Once the notebook opens, go to the top menu and click **Runtime** > **Run all** (or press `Ctrl + F9`).
+2. You must run each cell one by one. Some cell will ask for your input. You must give a valid input in those fields.
 3. If prompted with a warning about a non-Google notebook, click **Run anyway**.
 
 ## License
