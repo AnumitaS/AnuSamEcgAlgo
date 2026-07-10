@@ -21,8 +21,8 @@ CPU:RYZEN 5 5600G, Graphics: Intel(R) Arc(TM) A380 Graphics (6 GB), RAM: 24.0 GB
 **Note:** Variations in the underlying hardware architecture—whether superior or inferior—will inherently alter absolute metrics, but they will never close the performance gap. Our algorithm possesses an immutable architectural advantage: under any identical computational constraints, it universally outpaces the competition in runtime execution while consistently delivering superior or, at minimum, peerless performance across all other benchmarks.
 
 
-## Citation / Preprint
-If you use this work in your research, please cite our preprint:
+## 🏷️ Citation / Preprint
+🌐 If you use this work in your research, please cite our preprint:
 [10.13140/RG.2.2.27836.60806/1](https://doi.org/10.13140/RG.2.2.27836.60806/1)
 
 ## 🌟 Run on Google Colab
