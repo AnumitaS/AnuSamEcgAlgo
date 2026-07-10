@@ -29,7 +29,7 @@ If you use this work in your research, please cite our preprint:
 You can test and execute this program in the cloud without installing anything locally.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18HwwqWOm7TumqqrmXrf69CxQkii99mKR?usp=sharing)
 
-### 📝 Instructions for Viewers:
+### S U+1F4D Instructions for Viewers:
 1. Click the **Open In Colab** badge above.
 2. You must run each cell one by one. Some cell will ask for your input. You must give a valid input in those fields.
 3. If prompted with a warning about a non-Google notebook, click **Run anyway**.
