@@ -42,6 +42,6 @@ This project is dual-licensed under the terms of both the AGPL-3.0 License and t
 * See [LICENSE-AGPL](LICENSE-AGPL) for full text.
 * See [LICENSE-APACHE](LICENSE-APACHE) for full text.
 
-### SPDX Identifier
+### 🔎 SPDX Identifier
 ```text
 SPDX-License-Identifier: AGPL-3.0 OR Apache-2.0
