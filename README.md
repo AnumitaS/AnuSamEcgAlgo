@@ -11,12 +11,12 @@
 ## ▶️ Performance Benchmark (MIT-BIH Record 100)
 **Computational Specification for this result :** 
 CPU:RYZEN 5 5600G, Graphics: Intel(R) Arc(TM) A380 Graphics (6 GB), RAM: 24.0 GB (23.9 GB usable), OS: Windows 11 Pro 25H2
-| Method | Runtime (s) | F1-Score (Clean) | Runtime (s) | F1-Score (6dB Noise) |
+| Algorithm | Runtime (s) | F1-Score (Clean) | Runtime (s) | F1-Score (6dB Noise) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Proposed** | **0.01s** | **1.000** | **0.02s** | **1.000** |
 | Wavelet | 0.07s | **1.000** | 0.05s | **1.000** |
 | Christov | 10.78s | 0.999 | 15.99s | 0.989 |
-| HTompkins | 0.63s | 0.995 | 1.29s | 0.998 |
+| Hamilton-Tompkins | 0.63s | 0.995 | 1.29s | 0.998 |
 
 **Note:** Variations in the underlying hardware architecture—whether superior or inferior—will inherently alter absolute metrics, but they will never close the performance gap. Our algorithm possesses an immutable architectural advantage: under any identical computational constraints, it universally outpaces the competition in runtime execution while consistently delivering superior or, at minimum, peerless performance across all other benchmarks.
 
