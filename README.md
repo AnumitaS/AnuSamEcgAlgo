@@ -35,7 +35,7 @@ You can test and execute this program in the cloud without installing anything l
 3. If prompted with a warning about a non-Google notebook, click **Run anyway**.
 4. Video: (https://www.youtube.com/watch?v=MmCo8KBH1w8)
 
-## License
+## 🗎 License
 
 This project is dual-licensed under the terms of both the AGPL-3.0 License and the Apache License (Version 2.0). Users and contributors may choose which license they wish to follow.
 
