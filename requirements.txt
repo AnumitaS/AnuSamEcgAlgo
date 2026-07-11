@@ -1,13 +1,12 @@
-For the algorithm:
-Numpy #only numpy
-
-For running the benchmarking protocol:
-time
-pandas
-Neurokit2
-wfdb
-os
-scipy
+matplotlib
+neurokit2
+numpy
 openpyxl
-scikit_posthocs
-Database ( which ver you want to compare )
+os
+pandas
+requests
+scikit-posthocs
+scipy.signal
+scipy.stats
+time
+wfdb
