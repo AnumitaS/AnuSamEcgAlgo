@@ -11,7 +11,7 @@
 ## ▶️ Performance Benchmark (MIT-BIH Record 100)
 **Computational Specification for this result :** 
 CPU:RYZEN 5 5600G, Graphics: Intel(R) Arc(TM) A380 Graphics (6 GB), RAM: 24.0 GB (23.9 GB usable), OS: Windows 11 Pro 25H2
-| Algorithm | Runtime (s) | F1-Score (Clean) | Runtime (s) | F1-Score (6dB Noise) |
+| Algorithm | Runtime (s) | F1-Score (Clean, 50ms) | Runtime (s) | F1-Score (6dB Noise, 50ms) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Proposed** | **0.01s** | **1.000** | **0.02s** | **1.000** |
 | Wavelet | 0.07s | **1.000** | 0.05s | **1.000** |
