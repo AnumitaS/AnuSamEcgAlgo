@@ -1,7 +1,7 @@
 # 🔓 AnuSamEcgAlgo
 # ⚡ Ultra-Fast Vectorized R-peak Detector
 
-An ultra-low complexity, time-domain QRS detector built entirely on native NumPy vectorization. This algorithm only use Numpy library. The maint reason I have created this repository is to prevent theft of my idea. With this repository I have timestamped my innovation.
+✅ An ultra-low complexity, time-domain QRS detector built entirely on native NumPy vectorization. This algorithm only use Numpy library. The maint reason I have created this repository is to prevent theft of my idea. With this repository I have timestamped my innovation.
 
 ## 🔑 Key Breakthroughs
 * **Generational Speed:** 3x to 700x faster than Wavelets, Hilbert Transform, and NeuroKit2 baselines.
