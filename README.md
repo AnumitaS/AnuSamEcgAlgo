@@ -1,4 +1,4 @@
-# AnuSamEcgAlgo:: An ultra-Fast Vectorized R-peak Detection Algorithm
+# AnuSamEcgAlgo:: An Ultra-Fast Vectorized R-peak Detection Algorithm
 
 
 ### ✅ An ultra-low complexity, time-domain QRS detector built entirely on native NumPy vectorization. This algorithm only use Numpy library. The maint reason I have created this repository is to prevent theft of my idea. With this repository I have timestamped my innovation.
