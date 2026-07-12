@@ -4,7 +4,7 @@
 ### ✅ An ultra-low complexity, time-domain R peak detector built entirely on native NumPy vectorization. This algorithm only use Numpy library. The main reason I have created this repository is to prevent theft of my idea. With this repository I have timestamped my innovation.
 
 ### 🔑 Key Breakthroughs
-* **Generational Speed:** 3x to 700x faster than Hamilton-Tompkins, Pan-Tompkins, Christov, Wavelets, Hilbert Transform, and NeuroKit2 baselines.
+* **Generational Speed:** 3x to 700x faster than Hamilton-Tompkins, Pan-Tompkins, Christov, Hilbert Transform, and NeuroKit2 baselines.
 * **Linear Scaling:** Processing time scales at strict $O(N)$ linear complexity—the longer the signal, the higher the competitive advantage.
 * **Noise Robustness:** Maintains an F1-score of `>0.998` on the MIT-BIH database even under a harsh 6dB noise floor.
 
