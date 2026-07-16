@@ -1,6 +1,6 @@
 # AnuSamEcgAlgo ➡️ An Ultra-Fast Vectorized R-peak Detection Algorithm
 
-### *** 16/07/2026:: Important milestone: today I have benchmarked my algorithm in "https://github.com/WIMUniCologne/rpeak_benchmarking" to check whether my algorithm and testing procedue is biased and found my algo is at par with han CNNs and RNNs results, statistically my algo is same with deep learning method. Our Algo is 3.3x to >700x faster. So it is a ground breaking algorithm for real-time device. It proves my algo is superior and also my pipeline is not biased.
+### *** 16/07/2026:: Important milestone: today I have benchmarked my algorithm against "https://github.com/WIMUniCologne/rpeak_benchmarking" to check whether my algorithm and testing procedue is biased and found my algo is at par with han CNNs and RNNs results, statistically my algo is same with deep learning method. Our Algo is 3.3x to >700x faster. So it is a ground breaking algorithm for real-time device. It proves my algo is superior and also my pipeline is not biased.
 
 
 ### ✅ An ultra-low complexity, time-domain R peak detector built entirely on native NumPy vectorization. This algorithm only use Numpy library. The main reason I have created this repository is to prevent theft of my idea. With this repository I have timestamped my innovation.
