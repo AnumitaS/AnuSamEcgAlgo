@@ -2,6 +2,7 @@
 #Setup:
 Processor: ESP32 NodeMCU
 ECG Module: AD8232
+The image produced in real time.
 
 
 <img width="1160" height="566" alt="rtl" src="https://github.com/user-attachments/assets/e92dea3a-3160-4c50-81ae-b0024b3c8267" />
