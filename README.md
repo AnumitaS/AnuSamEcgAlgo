@@ -5,7 +5,8 @@
 ### The image produced in real time.
 
 
-<img width="1160" height="566" alt="rtl" src="https://github.com/user-attachments/assets/e92dea3a-3160-4c50-81ae-b0024b3c8267" />
+<img width="1590" height="590" alt="rtl" src="https://github.com/user-attachments/assets/9f9bdb02-22b9-4363-9ed3-91b3f664e675" />
+
 
 
 ### *** 16/07/2026:: Important milestone: today I have benchmarked my algorithm against "https://github.com/WIMUniCologne/rpeak_benchmarking" to check whether my algorithm and testing procedue is biased and found my algo is at par with han CNNs and RNNs results, statistically my algo is same with deep learning method. Our Algo is 3.3x to >700x faster. So it is a ground breaking algorithm for real-time device. It proves my algo is superior and also my pipeline is not biased.
